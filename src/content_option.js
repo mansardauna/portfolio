@@ -1,4 +1,4 @@
-const logotext = "MONSUR";
+const logotext = "FRONTEND_M.A";
 const meta = {
     title: "FrontEnd Developer",
     description: "I’m Abdulrahman Monsur a frontend developer,with 3 years experince",
@@ -79,64 +79,23 @@ const services = [{
 const dataportfolio = [{
         img: "https://picsum.photos/400/?grayscale",
         description: "The wisdom of life consists in the elimination of non-essentials.",
-        link: "#",
+        link: "https://monumental-shortbread-3dc8f7.netlify.app",
     },
     {
         img: "https://picsum.photos/400/800/?grayscale",
         description: "The wisdom of life consists in the elimination of non-essentials.",
-        link: "#",
+        link: "https://harmonious-fairy-086a22.netlify.app",
     },
     {
         img: "https://picsum.photos/400/?grayscale",
         description: "The wisdom of life consists in the elimination of non-essentials.",
-        link: "#",
+        link: "https://comfy-boba-22de80.netlify.app",
     },
     {
         img: "https://picsum.photos/400/600/?grayscale",
         description: "The wisdom of life consists in the elimination of non-essentials.",
-        link: "#",
-    },
-    {
-        img: "https://picsum.photos/400/300/?grayscale",
-        description: "The wisdom of life consists in the elimination of non-essentials.",
-        link: "#",
-    },
-    {
-        img: "https://picsum.photos/400/700/?grayscale",
-        description: "The wisdom of life consists in the elimination of non-essentials.",
-        link: "#",
-    },
-
-    {
-        img: "https://picsum.photos/400/600/?grayscale",
-        description: "The wisdom of life consists in the elimination of non-essentials.",
-        link: "#",
-    },
-    {
-        img: "https://picsum.photos/400/300/?grayscale",
-        description: "The wisdom of life consists in the elimination of non-essentials.",
-        link: "#",
-    },
-    {
-        img: "https://picsum.photos/400/?grayscale",
-        description: "The wisdom of life consists in the elimination of non-essentials.",
-        link: "#",
-    },
-    {
-        img: "https://picsum.photos/400/550/?grayscale",
-        description: "The wisdom of life consists in the elimination of non-essentials.",
-        link: "#",
-    },
-    {
-        img: "https://picsum.photos/400/?grayscale",
-        description: "The wisdom of life consists in the elimination of non-essentials.",
-        link: "#",
-    },
-    {
-        img: "https://picsum.photos/400/700/?grayscale",
-        description: "The wisdom of life consists in the elimination of non-essentials.",
-        link: "#",
-    },
+        link: "https://symphonious-halva-004a77.netlify.app",
+    }
 ];
 
 const contactConfig = {

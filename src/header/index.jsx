@@ -17,16 +17,16 @@ const Headermain = () => {
     <>
       <header className="fixed-top site__header">
         <div className="d-flex align-items-center justify-content-between">
-          <div className="d-flex align-items-center p-2">
+          <div className="d-flex nav_container align-items-center p-2">
           <Link  className="navbar-brand nav_ac" to="/">
             {logotext}
           </Link>
 
-          <div className="d-flex d-none d-md-block gy-3 p-2">
-          <Link  onClick={handleToggle} to="/" className="my-3">Home</Link>
-<Link  onClick={handleToggle} to="/portfolio" className="my-3"> Portfolio</Link>
-<Link onClick={handleToggle} to="/about" className="my-3">About</Link>
-<Link onClick={handleToggle} to="/contact" className="my-3"> Contact</Link>
+          <div className="nav d-none d-md-flex p-2 px-4">
+          <Link to="/" className="my-3">Home</Link>
+<Link to="/portfolio" className="my-3"> Portfolio</Link>
+<Link to="/about" className="my-3">About</Link>
+<Link to="/contact" className="my-3"> Contact</Link>
           </div>
           </div>
           <div className="d-flex align-items-center">

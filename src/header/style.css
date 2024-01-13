@@ -5,7 +5,14 @@
     background: var(--primary-color);
 
 }
-
+.nav{
+    width: 100%;
+    justify-content: space-between;
+    align-items: center;
+}
+.nav_container{
+    width: 50vw;
+}
 .menu__button {
     color: var(--text-color);
 }
