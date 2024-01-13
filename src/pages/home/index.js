@@ -38,21 +38,15 @@ export const Home = () => {
                   />
                 </h1>
                 <p className="mb-1x">{introdata.description}</p>
-                <div className="intro_btn-action pb-5">
+                <div className="intro_btn-action pb-5 ">
                   <Link to="/portfolio" className="text_2">
-                    <div id="button_p" className="ac_btn btn ">
-                      My Portfolio
-                      <div className="ring one"></div>
-                      <div className="ring two"></div>
-                      <div className="ring three"></div>
+                    <div id="button_p" className="ac_btn btn rounded-md p-2">
+                      My Project
                     </div>
                   </Link>
                   <Link to="/contact">
-                    <div id="button_h" className="ac_btn btn">
-                      Contact Me
-                      <div className="ring one"></div>
-                      <div className="ring two"></div>
-                      <div className="ring three"></div>
+                    <div id="button_h" className="ac_btn btn rounded-md p-2">
+                      Drop a Message
                     </div>
                   </Link>
                 </div>
