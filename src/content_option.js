@@ -13,7 +13,7 @@ const introdata = {
     third: "I develop mobile apps",
   },
   description:
-    "Resourceful Frontend software engineer with 3 years of experience designing,developing, and managing apps and internal frameworks",
+    "Resourceful Frontend software engineer with 4 years of experience designing,developing, and managing apps and internal frameworks",
   your_img_url: "setup.jpeg",
 };
 
@@ -101,26 +101,22 @@ const services = [
 const dataportfolio = [
   {
     img: "store.png",
-    description:
-      "The wisdom of life consists in the elimination of non-essentials.",
+    description: "An Ecommerce store.",
     link: "https://online-store-chi-steel.vercel.app/",
   },
   {
     img: "usul.png",
-    description:
-      "The wisdom of life consists in the elimination of non-essentials.",
+    description: "A school landing page.",
     link: "https://usuludeen.vercel.app",
   },
   {
     img: "potfolio.png",
-    description:
-      "The wisdom of life consists in the elimination of non-essentials.",
+    description: "My potfolio.",
     link: "https://comfy-boba-22de80.netlify.app",
   },
   {
     img: "wallpaper.png",
-    description:
-      "The wisdom of life consists in the elimination of non-essentials.",
+    description: "A demo template.",
     link: "https://monumental-shortbread-3dc8f7.netlify.app",
   },
 ];
@@ -129,7 +125,7 @@ const contactConfig = {
   YOUR_EMAIL: "olaomansur@gmail.com",
   YOUR_FONE: "(234)814-766-1430",
   description:
-    "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi vehicula eu nunc et sollicitudin. Cras pulvinar, nisi at imperdiet pharetra. ",
+    "Resourceful Frontend software engineer with 3 years of experience designing,developing, and managing apps and internal frameworks ",
   YOUR_SERVICE_ID: "service_id",
   YOUR_TEMPLATE_ID: "template_id",
   YOUR_USER_ID: "user_id",
