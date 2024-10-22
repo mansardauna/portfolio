@@ -100,6 +100,17 @@ const services = [
 
 const dataportfolio = [
   {
+    img: "casherp.png",
+    description:
+      "Casherp is your ultimate solution for managing business finances. Enjoy powerful features to streamline your financial operations and enhance productivity.",
+    link: "https://casherp.vercel.app/",
+  },
+  {
+    img: "zara.png",
+    description: "CRM sysytem in progress.",
+    link: "",
+  },
+  {
     img: "store.png",
     description: "An Ecommerce store.",
     link: "https://online-store-chi-steel.vercel.app/",
