@@ -123,7 +123,7 @@ const dataportfolio = [
   {
     img: "potfolio.png",
     description: "My potfolio.",
-    link: "https://comfy-boba-22de80.netlify.app",
+    link: "https://portfolio-eight-theta-10.vercel.app/",
   },
   {
     img: "wallpaper.png",
